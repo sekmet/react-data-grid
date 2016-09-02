@@ -1,6 +1,6 @@
 {
   "name": "react-data-grid",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "description": "Data grid for React",
   "main": "src/index.js",
   "scripts": {
@@ -19,8 +19,8 @@
     "react-component"
   ],
   "peerDependencies": {
-    "react": "~0.14.6",
-    "react-dom": "~0.14.6"
+    "react": "~0.15.3",
+    "react-dom": "~0.15.3"
   },
   "dependencies": {
     "classnames": "^1.2.0",
